@@ -42,7 +42,7 @@ function Details() {
           <div className="flex-1 flex justify-start ml-6 md:ml-20">
             <div className="text-white text-3xl font-bold">
               <p className="mb-2 md:mb-12">Hey there,</p>
-              <p className="font-normal text-sm md:text-lg">I am Adeel Sarwar, a hardcore Pakistani,</p>
+              <p className="font-normal text-sm md:text-lg">I am Adeel Sarwar, a hardcore Pakistani</p>
               <p className="font-normal text-sm md:text-lg">who revels in a creative challenge.</p>
               <p className="font-normal text-sm md:text-lg">I always look for projects that challenge me</p>
               <p className="font-normal text-sm md:text-lg mb-2 md:mb-12">and take me out of my comfort zone.</p>
