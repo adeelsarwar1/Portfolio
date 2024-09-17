@@ -34,8 +34,8 @@ function Details() {
         <div className={`flex justify-center items-center w-full px-8 ${isVisible ? "fly-in" : ""}`}>
           <div className="flex-1 flex justify-end">
             <img
-              src={`${process.env.PUBLIC_URL}/images/social.png`}
-              className="w-96"
+              src={`${process.env.PUBLIC_URL}/images/me.jpg`}
+              className="w-96 rounded-3xl"
               alt="Insta Link"
             />
           </div>
